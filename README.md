@@ -4,7 +4,9 @@ Wondershare Filmora Overview
 Video Editing Simplified - Ignite Your Story. A powerful and intuitive video editing experience. Filmora 10hash two new ways to edit: Action Cam Tool (Correct lens distortion, Clean up your audio, New speed controls) and Instant Cutter (Trim or merge clips quickly, Instant export).
 
 Filmora allows you to create projects in 4:3 or 16:9, so you can crop the videos or resize them to fit the size you want. This way, quickly converting a widescreen material to SD format is possible.
-Download Link https://shorturl.at/yunxf 
+
+Download Link https://getintopc.io/wondershare-filmora/
+
 Features of Wondershare Filmora
 Motion Tracking - Attach an element to a moving object in your video easily with auto motion tracking.
 Keyframing - Customize animation by adding keyframes to change a clip's position, rotation, scale, and opacity.
