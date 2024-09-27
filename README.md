@@ -7,7 +7,7 @@ Filmora allows you to create projects in 4:3 or 16:9, so you can crop the videos
 
 Download Link https://getintopc.io/wondershare-filmora/
 
-Features of Wondershare Filmora
+Features of Wondershare Filmora:
 Motion Tracking - Attach an element to a moving object in your video easily with auto motion tracking.
 Keyframing - Customize animation by adding keyframes to change a clip's position, rotation, scale, and opacity.
 Color Match - Match the color of selected clips to another frame from another clip.
